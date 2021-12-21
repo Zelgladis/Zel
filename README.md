@@ -1,5 +1,4 @@
-# Zel
-# GitHub-Flavored Markdown
+##### Zel
 
 # Руководство Денчик слазит
 
