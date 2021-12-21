@@ -19,7 +19,7 @@
 > > А стасик стасик стасик
 
 ## Тру код
-```
+```Powershell
 Add-Type -Assembly System.Windows.Forms 
 
 function level_cleared {
